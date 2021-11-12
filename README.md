@@ -1,6 +1,4 @@
 # next-assessment
-Create a simple web or command line application that allows users to enter a past date and time and receive the city the ISS was over at that moment, as well as its location every ten minutes before and after that for an hour.
-
 Hello, 
 
 To start the web app,you are required to have Xamppl application. First, you can download the files and put in htdocs folder of Xampp folder. Then, turn on the Xampp application and enter the URL consist of the index file path. As in my case, my url is http://localhost/iss/next-assessment/index.php.
