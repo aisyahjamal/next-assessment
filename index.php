@@ -7,7 +7,6 @@
         <title>ISS LOCATION FINDER</title>
     </head>
     <body>
-
     <style>
     body {
         background: #152238 }
@@ -29,11 +28,7 @@
             <button type="submit">Submit</button>
         </form>
     </section>
-
     </body>
-
-   
-
 </html>
 
 
